@@ -8,7 +8,7 @@ A port of the [Solarized Dark](http://ethanschoonover.com/solarized) theme for [
 
   ```js
   plugins: [
-    'hyperterm-almosy-solarized-dark'
+    'hyperterm-almost-solarized-dark'
   ],
   ```
 3. Reload HyperTerm by pressing `Cmd + Shft + R`
