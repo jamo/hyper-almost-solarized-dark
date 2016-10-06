@@ -1,4 +1,4 @@
-const backgroundColor = '#252525'
+const backgroundColor = 'rgba(37, 37, 37, 0.8)'
 const foregroundColor = '#ffffff'
 const cursorColor = 'rgba(181, 137, 0, 0.6)'
 const borderColor = 'rgba(38, 139, 210, 0.3)'
