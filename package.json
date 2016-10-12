@@ -1,6 +1,6 @@
 {
   "name": "hyper-almost-solarized-dark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hyper.app theme using almost the dark Solarized colors",
   "main": "index.js",
   "keywords": [
