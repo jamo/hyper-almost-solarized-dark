@@ -1,14 +1,15 @@
 {
   "name": "hyper-almost-solarized-dark",
   "version": "0.1.1",
-  "description": "Hyper.app theme using almost the dark Solarized colors",
+  "description": "Hyper theme using almost the dark Solarized colors",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
     "colors",
     "theme",
-    "solarized"
+    "solarized",
+    "hyper"
   ],
   "repository": {
     "type": "git",
